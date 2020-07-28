@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+https://i.pinimg.com/474x/05/c5/ac/05c5ace1f7e3c097bfda25e8b376fe24--wall-e-costume-party-masks.jpg
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![WALLE](https://i.pinimg.com/474x/05/c5/ac/05c5ace1f7e3c097bfda25e8b376fe24--wall-e-costume-party-masks.jpg)
+![WALLE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FOoC3&psig=AOvVaw2iV3b47m5X9SESNloCw80A&ust=1596044479134000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPjOypO_8OoCFQAAAAAdAAAAABAY)
 - 🔭 I’m currently working on biomedical informatics and computational metabolomics projects
 - 📫 How to reach me: xinsongdu@ufl.edu
 - 😄 Pronouns: Nerd
