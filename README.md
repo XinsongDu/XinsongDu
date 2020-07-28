@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![WALLE](https://i.pinimg.com/474x/05/c5/ac/05c5ace1f7e3c097bfda25e8b376fe24--wall-e-costume-party-masks.jpg)
+- 🔭 I’m currently working on biomedical informatics and computational metabolomics
+- 📫 How to reach me: xinsongdu@ufl.edu
+- 😄 Pronouns: Nerd
+- ⚡ Fun fact: I am an introvert person but like to communicate with others
