@@ -22,4 +22,4 @@ backup link: https://i.pinimg.com/474x/05/c5/ac/05c5ace1f7e3c097bfda25e8b376fe24
 ![WALLE](https://images.squarespace-cdn.com/content/v1/535e680de4b0eea56c05a375/1447760681289-Z7CKPTICXT0YV3TDWRPP/ke17ZwdGBToddI8pDm48kDAv91l_EVpAtt3T82Wm1m9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEcs4OJ1MUiSygP0U4z2bUeJj0Nr1n48rGt1cKo_lK-mJuG45vQwBxdpDrCGUSSl5w/test-robot-2_1.gif?format=750w)
 - 🔭 I’m currently working on biomedical informatics and computational metabolomics projects
 - 📫 How to reach me: xinsongdu@ufl.edu
-- ⚡ Fun fact: My name was changed when I was about 7 year's old; my former name was 杜欣松 but now my name is 杜昕松, although both of them are "Xinsong Du" in English.
+- ⚡ Fun fact: My name was changed when I was about 7 year's old; my former name was 杜欣松 but now my name is 杜昕松, although both of them are "Xinsong Du" in English. My former first name (欣松) means a happy pine, while my current first name (昕松) means a pine in the morning, which is energetic.
