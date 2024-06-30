@@ -20,6 +20,5 @@ backup link: https://i.pinimg.com/474x/05/c5/ac/05c5ace1f7e3c097bfda25e8b376fe24
 - image reference: https://www.cubstudio.com/labs
 -->
 ![WALLE](https://images.squarespace-cdn.com/content/v1/535e680de4b0eea56c05a375/1447760681289-Z7CKPTICXT0YV3TDWRPP/ke17ZwdGBToddI8pDm48kDAv91l_EVpAtt3T82Wm1m9Zw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVEcs4OJ1MUiSygP0U4z2bUeJj0Nr1n48rGt1cKo_lK-mJuG45vQwBxdpDrCGUSSl5w/test-robot-2_1.gif?format=750w)
-- 🔭 I’m currently working on biomedical informatics and computational metabolomics projects
+- 🔭 I’m currently working on biomedical informatics projects, specifically, utilizing large language models to analyze biomedical data.
 - 📫 How to reach me: xidu1@bwh.harvard.edu
-- ⚡ Fun fact: I play ping-pong about 3 times a week, and each time (100 min) can consume around 1000 KCal.
